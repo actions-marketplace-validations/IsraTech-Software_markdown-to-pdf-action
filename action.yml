@@ -1,6 +1,6 @@
-name: 'Markdown to PDF Converter'
+name: 'IsraTech Markdown to PDF Converter'
 description: 'Asynchronously converts Markdown documents to styled PDFs using WeasyPrint.'
-author: 'Your Organization'
+author: 'IsraTech Software'
 
 branding:
   icon: 'file-text'
